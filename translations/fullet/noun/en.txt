@@ -1,0 +1,4 @@
+leaflet
+pamphlet
+brochure
+flyer
