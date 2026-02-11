@@ -1,0 +1,6 @@
+seat
+chair
+bench
+headquarters
+base
+see

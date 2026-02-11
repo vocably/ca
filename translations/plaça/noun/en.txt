@@ -1,0 +1,7 @@
+square
+plaza
+place
+seat
+position
+berth
+platform

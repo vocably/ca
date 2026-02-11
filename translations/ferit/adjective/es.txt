@@ -1,0 +1,5 @@
+herido
+lesionado
+dañado
+afectado
+golpeado

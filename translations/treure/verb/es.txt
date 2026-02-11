@@ -1,0 +1,4 @@
+sacar
+quitar
+extraer
+retirar

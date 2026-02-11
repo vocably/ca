@@ -1,0 +1,8 @@
+pasador
+pestillo
+aldaba
+tranca
+barra
+gozne
+perno
+stringer

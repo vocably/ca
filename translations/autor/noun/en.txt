@@ -1,0 +1,5 @@
+author
+writer
+creator
+perpetrator
+originator

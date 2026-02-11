@@ -1,0 +1,5 @@
+empty
+blank
+vacant
+hollow
+void

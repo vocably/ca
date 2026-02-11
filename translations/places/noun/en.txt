@@ -1,0 +1,8 @@
+places
+spaces
+positions
+seats
+locations
+spots
+offices
+posts

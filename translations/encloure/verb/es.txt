@@ -1,0 +1,5 @@
+incluir
+encerrar
+adjuntar
+contener
+meter

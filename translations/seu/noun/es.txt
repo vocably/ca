@@ -1,0 +1,5 @@
+sede
+catedral
+iglesia mayor
+lugar
+emplazamiento

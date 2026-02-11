@@ -1,0 +1,6 @@
+localidad
+población
+ciudad
+sitio
+lugar
+emplazamiento

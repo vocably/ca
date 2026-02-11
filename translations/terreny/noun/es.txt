@@ -1,0 +1,8 @@
+terreno
+ámbito
+campo
+parcela
+solar
+dominio
+esfera
+área

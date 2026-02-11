@@ -1,0 +1,4 @@
+longitud
+largo
+distancia
+duración
